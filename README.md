@@ -4,12 +4,14 @@
 
 <img align="right" alt="Visualisation in Scientific Computing, NSF report, 1987"></img>
 
-### [Scientific Visualization](slides/dataviz.pdf) (slides)
+<br/><br/>
+
+### [Scientific Visualization](slides/dataviz.pdf) (PDF)
 
 > A gentle introduction to scientific visualization reviewing some
 > concepts, definitions and rules.
 
-### Introduction
+### [Introduction](01-introduction.ipynb) (notebook)
 
 > In this introduction, we'll see how to make a figure and play with the
 > different settings such as to improve the rendering. We'll also see
