@@ -6,35 +6,31 @@
 
 <br/><br/>
 
-### [Scientific Visualization](slides/dataviz.pdf) (PDF)
+## Course
 
-> A gentle introduction to scientific visualization reviewing some
-> concepts, definitions and rules.
+* **[Scientific Visualization](slides/dataviz.pdf)** (**PDF**). A gentle
+     introduction to scientific visualization reviewing some concepts,
+     definitions and rules.
 
-### [Introduction](01-introduction.ipynb) (notebook)
+* **[Introduction](01-introduction.ipynb)** (**notebook**). In this
+    introduction, we'll see how to make a figure and play with the
+    different settings such as to improve the rendering. We'll also
+    see how to compose a figure made of several subplots with a
+    moderatly complex layout.
 
-> In this introduction, we'll see how to make a figure and play with the
-> different settings such as to improve the rendering. We'll also see
-> how to compose a figure made of several subplots with a moderatly
-> complex layout.
+* **[Catalogue]()** (**notebook**). In this lesson, we'll review the
+  many different types of plot matplotlib offers and manipulate them,
+  namely, plot, scatter, imshow and bar plots.
 
-### Catalogue
+* **[Scales & projections]()** (**notebook**). Matplotlib offers the
+  possibility to use different scales (log scale, symlog scale, logit
+  scale) and projections (polar, 3D, geographic). We'll review a few
+  of them in this lesson.
 
-> In this lesson, we'll review the many different types of plot
-> matplotlib offers and manipulate them, namely, plot, scatter, imshow
-> and bar plots.
-
-### Scales & projections
-
-> Matplotlib offers the possibility to use different scales (log
-> scale, symlog scale, logit scale) and projections (polar, 3D,
-> geographic). We'll review a few of them in this lesson.
-
-### Animation
-
->  Animation with matplotlib can be created very easily using the
->  animation framework. During this lesson, we'll show how to create
->  an animation and save it as a movie.
+* **[Animation]()** (**notebook**). Animation with matplotlib can be
+  created very easily using the animation framework. During this
+  lesson, we'll show how to create an animation and save it as a
+  movie.
 
 
 ## Resources
