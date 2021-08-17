@@ -1,6 +1,13 @@
-# Best practices in data visualization
+# Scientific visualization Crash Course
 
-## Notebooks
+> Visualisation is a method of computing. It transforms the symbolic into the geometric, enabling researchers to observe their simulations and computations. Visualisation offers a method for seeing the unseen. It enriches the process of scientific discovery and fosters profound and unexpected insights.
+
+<img align="right" alt="Visualisation in Scientific Computing, NSF report, 1987"></img>
+
+### [Scientific Visualization](slides/dataviz.pdf) (slides)
+
+> A gentle introduction to scientific visualization reviewing some
+> concepts, definitions and rules.
 
 ### Introduction
 
