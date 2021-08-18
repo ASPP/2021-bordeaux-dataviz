@@ -22,10 +22,10 @@
   we'll review the many different types of plot matplotlib offers and
   manipulate them, namely, plot, scatter, imshow and bar plots.
 
-* **Scales & projections** (**notebook**). Matplotlib offers the
-  possibility to use different scales (log scale, symlog scale, logit
-  scale) and projections (polar, 3D, geographic). We'll review a few
-  of them in this lesson.
+* **[Scales & projections](03-scale-projections.ipynb)**
+  (**notebook**). Matplotlib offers the possibility to use different
+  scales (log scale, symlog scale, logit scale) and projections
+  (polar, 3D, geographic). We'll review a few of them in this lesson.
 
 * **Animation** (**notebook**). Animation with matplotlib can be
   created very easily using the animation framework. During this
