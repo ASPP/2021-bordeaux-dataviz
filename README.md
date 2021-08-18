@@ -27,10 +27,10 @@
   scales (log scale, symlog scale, logit scale) and projections
   (polar, 3D, geographic). We'll review a few of them in this lesson.
 
-* **Animation** (**notebook**). Animation with matplotlib can be
-  created very easily using the animation framework. During this
-  lesson, we'll show how to create an animation and save it as a
-  movie.
+* **[Animation](04-animation.py)** (**notebook**). Animation with
+  matplotlib can be created very easily using the animation
+  framework. During this lesson, we'll show how to create an animation
+  and save it as a movie.
 
 
 ## Resources
