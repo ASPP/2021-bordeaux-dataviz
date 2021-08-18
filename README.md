@@ -1,4 +1,4 @@
-# Scientific visualization Course <img  align="right" src="https://img.shields.io/badge/ASPP%202021-BORDEAUX-red?style=flat-square" alt="ASPP 2021- Bordeaux"></img>
+# Scientific visualization Course <a href="https://aspp.school/wiki/"><img  align="right" src="https://img.shields.io/badge/ASPP%202021-BORDEAUX-red?style=flat-square" alt="ASPP 2021- Bordeaux"></img></a>
 
 > Visualisation is a method of computing. It transforms the symbolic into the geometric, enabling researchers to observe their simulations and computations. Visualisation offers a method for seeing the unseen. It enriches the process of scientific discovery and fosters profound and unexpected insights.
 
